@@ -9,7 +9,7 @@ Offical Dynamic image link is [here](https://github.com/hbilen/dynamic-image-net
 
 Corresponding author: Xin Xing (xxi242@g.uky.edu)
 
-##Prerequisites
+## Prerequisites
 * [Python3](https://www.python.org/)
 * [Pytorch](https://pytorch.org/)
 * [NiBabel](https://nipy.org/nibabel/)
@@ -23,8 +23,7 @@ Corresponding author: Xin Xing (xxi242@g.uky.edu)
 
 
 ## Results:
-The experiment results:
+
 ![](https://github.com/UkyVision/alzheimer-project/blob/master/Dynamic%2BAttention%20for%20AD%20MRI%20classification/imgs/result.png)
 
-The running time:
 ![](https://github.com/UkyVision/alzheimer-project/blob/master/Dynamic%2BAttention%20for%20AD%20MRI%20classification/imgs/time.png)
