@@ -3,7 +3,7 @@ This is the Pytorch implementation of the ECCV 2020 worshop paper "Dynamic Image
 
 Authors:Xin Xing, Gongbo Liang, Hunter Blanton, M. Usman Rafique, Chris Wang, Ai-Ling Lin, and Nathan Jacobs 
 
-The dynamic image script is refered by [this](https://github.com/tcvrick/dynamic-images-for-action-recognition/).
+The dynamic image python script is refered by [this](https://github.com/tcvrick/dynamic-images-for-action-recognition/).
 
 Offical Dynamic image link is [here](https://github.com/hbilen/dynamic-image-nets).
 
