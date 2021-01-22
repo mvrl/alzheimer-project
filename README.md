@@ -1,5 +1,5 @@
 # Dynamic image for AD MRI classification
-This is the Pytorch implementation of the ECCV 2020 worshop paper "Dynamic Image for 3D MRI Image Alzheimer's Disease Classification". 
+This is the Pytorch implementation of the ECCV 2020 worshop paper "Dynamic Image for 3D MRI Image Alzheimer's Disease Classification". [paper](https://arxiv.org/abs/2012.00119)
 
 Authors:Xin Xing, Gongbo Liang, Hunter Blanton, M. Usman Rafique, Chris Wang, Ai-Ling Lin, and Nathan Jacobs 
 
