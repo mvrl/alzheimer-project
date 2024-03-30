@@ -7,7 +7,9 @@ The dynamic image python script is refered by [this](https://github.com/tcvrick/
 
 Offical Dynamic image link is [here](https://github.com/hbilen/dynamic-image-nets).
 
-Corresponding author: Xin Xing (xxi242@g.uky.edu)
+Corresponding author: Xin Xing (xtremexing@gmail.com)
+
+The dataset is collected from [ADNI](https://adni.loni.usc.edu/), which is a public website. Here is the [link](https://drive.google.com/drive/folders/1BrJKf7Zy-_TYVPXOl58icR4aOeC-vOY9?usp=drive_link) of the data we used in our work.
 
 ## Prerequisites
 * [Python3](https://www.python.org/)
