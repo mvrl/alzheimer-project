@@ -16,12 +16,14 @@ The dataset is collected from [ADNI](https://adni.loni.usc.edu/), which is a pub
 If you find this work useful, please cite:
 
 ```bibtex
-@article{xing2020dynamic,
-  title     = {Dynamic Image for 3D MRI Image Alzheimer's Disease Classification},
-  author    = {Xing, Xin and Liang, Gongbo and Blanton, Hunter and Rafique, M. Usman and Wang, Chris and Lin, Ai-Ling and Jacobs, Nathan},
-  journal   = {arXiv preprint arXiv:2012.00119},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2012.00119}
+@misc{xing2020dynamic,
+  title         = {Dynamic Image for 3D MRI Image Alzheimer's Disease Classification},
+  author        = {Xin Xing and Gongbo Liang and Hunter Blanton and M. Usman Rafique and Chris Wang and Ai-Ling Lin and Nathan Jacobs},
+  year          = {2020},
+  eprint        = {2012.00119},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2012.00119}
 }
 ```
 
