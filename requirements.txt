@@ -1,0 +1,9 @@
+torch>=1.7
+torchvision>=0.8
+numpy
+scikit-learn
+tqdm
+matplotlib
+opencv-python
+nibabel
+SimpleITK
